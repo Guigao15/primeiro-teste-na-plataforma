@@ -1,0 +1,34 @@
+EDGE
+
+https://www.fronteditor.dev/
+
+Visual Studio Code
+	- Download Insider Version
+	- Versão comum
+
+Figma (chrome)
+	- Design
+
+TLDraw
+	- Desenho
+
+Whimshical
+	- Mapas mentais
+
+Notion
+	- Anotações
+
+GitBash
+	- terminal para windows
+	- confirmar na abertura "bash"
+	- Melhor que CMD ou PowerShell
+	- git init = inicia um git (repositório)
+	- git status = verifica alteraçõs em pastas e arquivos
+	- git add . = adiciona todos arquivos e pastas modf 
+	- git commit -m "message here" - cria e descreve um ponto na história
+	- git log - histórico de commits
+
+DevDocs
+	- Documentação 
+
+ 
